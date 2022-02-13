@@ -1,0 +1,20 @@
+WeaponData
+{
+	MP_BASE
+	{
+			"dof_zoom_nearDepthStart"						"0.0"
+			"dof_zoom_nearDepthEnd"							"0.0"
+
+			dof_zoom_focusArea_horizontal					0.0
+			dof_zoom_focusArea_top							0.0
+			dof_zoom_focusArea_bottom						0.0
+
+	}
+			"zoom_fov"		    	"55"
+	{
+		iron_sights
+		{
+			"zoom_fov"		    	"55"
+		}
+	}
+}

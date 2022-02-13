@@ -1,0 +1,13 @@
+{
+  "Name": "Max.DoubleTakeIronsightFOVFix",
+  "Description": "This changes the way the double take looks when in ADS, so you can see more and it feels less claustrophobic (made from Avalar's CustomScopeFOV mod)",
+  "Version": "1.0.3",
+  "LoadPriority": 0,
+	"Scripts": [
+		{
+			"Path": "",
+			"RunOn": "CLIENT"
+
+		}
+	]
+}
