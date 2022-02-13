@@ -1,9 +1,9 @@
 {
     "name": "Max.DoubleTakeIronsightFOVFix",
     "version_number": "1.0.0",
-    "website_url": "https://github.com/thunderstore-io",
-    "description": "This is a description for a mod. 250 characters max",
+    "website_url": "https://github.com/Maxb0tbeep/Max.DoubleTakeIronsightFOVFix",
+    "description": "This changes the way the double take looks when in ADS, so you can see more and it feels less claustrophobic",
     "dependencies": [
-        "MythicManiac-TestMod-1.1.0"
+        
     ]
 }
